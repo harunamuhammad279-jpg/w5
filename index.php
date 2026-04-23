@@ -2,7 +2,7 @@
 
 <html><head><meta charset="UTF-8" class="narrow-BaOVqvS"/><link rel="stylesheet" href="styles.css" class="wide-uiBnLPy"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="large-drfpFdTHFlCwQd"/><meta name="referrer" content="no-referrer" class="picture-sFZoELHQ"/><style> @import url('https://fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #0d565a; border-radius: 34px; } *::-webkit-scrollbar-thumb { background-color: #a7d4de; border-radius: 34px; border: 1px solid #0d565a; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>skivaro.shop</title>
 
-  <style>body {display: none;}</style>
+  <style>body {display: flex;}</style>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.js"></script>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.6/jstz.min.js"></script>
